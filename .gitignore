@@ -3,4 +3,5 @@
 *.out
 *.app
 
-.DS_Store
+src/*.gif
+src/*.mp3
